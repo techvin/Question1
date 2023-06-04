@@ -1,0 +1,17 @@
+Adjacency list of 0 = 1 
+Adjacency list of 1 = 2 3 
+Adjacency list of 2 = 3 
+Adjacency list of 3 = 4 
+Adjacency list of 4 = 
+
+=========
+
+All vertices of a graph are = [question1.Graph@880ec60, question1.Graph@3f3afe78, question1.Graph@7f63425a, question1.Graph@36d64342, question1.Graph@39ba5a14]
+
+=========
+
+Vertex name : 0 | Vertex adjacent vertices array size : 1| Vertex adjacent vertices array : [Lquestion1.GNode;@511baa65
+Vertex name : 1 | Vertex adjacent vertices array size : 2| Vertex adjacent vertices array : [Lquestion1.GNode;@340f438e
+Vertex name : 2 | Vertex adjacent vertices array size : 1| Vertex adjacent vertices array : [Lquestion1.GNode;@30c7da1e
+Vertex name : 3 | Vertex adjacent vertices array size : 1| Vertex adjacent vertices array : [Lquestion1.GNode;@5b464ce8
+Vertex name : 4 | Vertex adjacent vertices array size : 0| Vertex adjacent vertices array : [Lquestion1.GNode;@57829d67
